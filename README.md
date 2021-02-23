@@ -1,4 +1,4 @@
-# Facial-recognition-and-Mask-Identification
+# Facial recognition and mask identification
 
 ![](Output/faces4.png)
 
