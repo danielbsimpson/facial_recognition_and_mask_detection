@@ -25,4 +25,4 @@ Then I went on to identify some various test cases
 
 ![](Output/faces4.png)
 
-![](Output/faces1.png)
+![](Output/faces1.jpeg)
