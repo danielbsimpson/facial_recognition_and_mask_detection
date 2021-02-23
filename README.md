@@ -7,7 +7,7 @@ This project was designed to take in an image, and apply bounding boxes around a
 The facial recognition utilizes CV2 library to identify bounding boxes.
 The Convolution Neural Network uses pre-trained ImageNet weights, with an additional flatten, dense and output layer added for weight training.
 
-The training notebook for the CNN can be found here.
+The training notebook for the CNN can be found [here](https://www.kaggle.com/dbsimpson/mask-recognition?scriptVersionId=55048075).
 
 The final output is the same image, with bounding boxes around the faces that are green if the individual is wearing a mask, or red if the individual is not wearing a mask.
 
