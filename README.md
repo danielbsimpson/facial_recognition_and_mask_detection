@@ -13,7 +13,7 @@ The final output is the same image, with bounding boxes around the faces that ar
 
 I first tested this notebook using my webcam on my laptop:
 
-![](Output/Test_image%20me.png)
+![](Output/Test_image_me.png)
 
 Then I went on to identify some various test cases
 
