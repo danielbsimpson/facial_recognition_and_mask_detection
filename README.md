@@ -8,4 +8,4 @@ The final output is the same image, with bounding boxes around the faces that ar
 
 I first tested this notebook using my webcam on my laptop:
 
-![](Output/Test_image me.png)
+![](Output/Test_image.png)
