@@ -38,11 +38,11 @@ The facial recognition is failing to identify some individual faces in the image
 Applying the same logic I applied the Deep Learning Network provided by CV2 for facial recognition, the Caffe model. The threshold value can be tuned in this model to allow for more faces being recognized, but could possibly result in more false positives for faces detected in an image.
 Since I was having issues with Hasscascade I decided to give this model a shot for detection, and then once again fed the cropped image into the mask detector.
 
-![](faces3_caffe.png)
+![](Output/faces3_caffe.png)
 
-![](faces2_caffe_masknet.png)
+![](Output/faces2_caffe_masknet.png)
 
-![](multiple_faces_caffe_masknet.png)
+![](Output/multiple_faces_caffe_masknet.png)
 
 This project could easily be applied frame by frame to video images to give real time mask/no mask identification of individuals on a property.
 
