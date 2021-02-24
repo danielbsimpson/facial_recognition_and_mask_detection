@@ -40,9 +40,16 @@ Since I was having issues with Hasscascade I decided to give this model a shot f
 
 ![](Output/faces3_caffe.png)
 
+So the Caffe model seems to be picking up more faces in the images.
+![](Output/faces3_caffe_masknet.png)
+
 ![](Output/faces2_caffe_masknet.png)
 
+Possibly the hand in front of the face is throwing off the network for the guy furthest to the left.
+
 ![](Output/multiple_faces_caffe_masknet.png)
+
+Not perfect but works fairly well given so little code!
 
 This project could easily be applied frame by frame to video images to give real time mask/no mask identification of individuals on a property.
 
